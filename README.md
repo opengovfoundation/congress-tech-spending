@@ -10,7 +10,7 @@ Due to the lack of complete, verifiable and open spending data, these results ar
 
 ## Credits
 
-These spreadsheets are manual classifications from Songressional disbursement data converted and provided to the public by the Sunlight Foundation.  Thank you, Sunlight!
+These spreadsheets are manual classifications from Congressional disbursement data converted and provided to the public by the Sunlight Foundation.  Thank you, Sunlight!
 
 ## License
 
