@@ -2,7 +2,7 @@
 
 How much does the United States Congress spend on technology and digital media?  It's a hard question to answer right now, but a necessary one for those who want a 21st Century Congress that works as efficiently, effectively and accountably as possible.  Here you will find spreadsheets containing our underlying data, work and analysis.  
 
-[Read our initial analysis](http://opengovfoundation.org/counting-up-congressional-technology-spending-for-2014-the-u-s-senate/) of 2014 U.S. Senate technology- and digital media-related spending.  Please share your feedback, questions and improvements below or on [Twitter](http://Twitter.com/Foundopengov) to help us all get closer to the right numbers.
+Read our full analysis of 2014 technology- and digital media-related spending for the [Senate](http://opengovfoundation.org/counting-up-congressional-technology-spending-for-2014-the-u-s-senate/), the [House](http://opengovfoundation.org/counting-up-congressional-technology-spending-for-2014-the-u-s-house/) and [our conclusions](http://opengovfoundation.org/why-congressional-technology-spending-matters-and-how-to-improve-the-situation/).  Please share your feedback, questions and improvements below or on [Twitter](http://Twitter.com/Foundopengov) to help us all get closer to the right numbers.
 
 # Disclaimer on Underlying Congressional Spending Data
 
